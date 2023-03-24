@@ -34,7 +34,7 @@ On the actors view is presented the actors of the shows, if selected is present 
 
 ## Project Access
 
-**This project can be downloaded on the Git on this link - https://github.com/RafaelLehn/TVMaze.git**
+**This project can be downloaded on the Git on this link - https://github.com/RafaelLehn/TVMaze/tree/master**
 
 ## 🛠️ Open and run the project
 
@@ -88,7 +88,7 @@ Na visualização dos atores são apresentados os atores dos espetáculos, se se
 
 ## Acesso ao projeto
 
-**Este projeto pode ser baixado no Git neste link - https://github.com/RafaelLehn/TVMaze.git**
+**Este projeto pode ser baixado no Git neste link - https://github.com/RafaelLehn/TVMaze/tree/master**
 
 ## 🛠️ Abrir e rodar o projeto
 
